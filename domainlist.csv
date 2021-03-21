@@ -137,3 +137,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 136,0,login.microsoftonline.com,1,1615531568,1615531568,
 137,0,cws-hulu.conviva.com,1,1615764861,1615764861,
 138,0,vortex.hulu.com,1,1615764899,1615764900,
+139,0,activity.windows.com,1,1616289991,1616289991,"Added from Query Log"
+140,0,app-measurement.com,1,1616291763,1616291763,
